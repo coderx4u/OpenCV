@@ -7,7 +7,7 @@
 
 #### 2. Facial Recognation through values stored in dataset
 
-![screen shot 2018-04-22 at 7 54 38 pm](https://user-images.githubusercontent.com/26153500/39096009-4c44fa00-4667-11e8-838c-af2d22819f8c.png)
+![screen shot 2018-04-22 at 7 54 38 pm](https://user-images.githubusercontent.com/26153500/39096029-9be3b312-4667-11e8-8a87-bc1c32d50f05.png)
 
 #### 2. Check whether the Face matches with image stored in dataset
 
